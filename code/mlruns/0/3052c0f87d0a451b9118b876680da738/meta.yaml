@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rossfleming/Documents/GitHub/bigdata_hw3/code/mlruns/0/3052c0f87d0a451b9118b876680da738/artifacts
+end_time: 1718119901068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3052c0f87d0a451b9118b876680da738
+run_name: upset-grub-920
+run_uuid: 3052c0f87d0a451b9118b876680da738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718119774237
+status: 3
+tags: []
+user_id: rossfleming

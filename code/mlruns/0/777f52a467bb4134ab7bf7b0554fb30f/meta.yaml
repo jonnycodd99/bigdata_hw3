@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rossfleming/Documents/GitHub/bigdata_hw3/code/mlruns/0/777f52a467bb4134ab7bf7b0554fb30f/artifacts
+end_time: 1718119766905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 777f52a467bb4134ab7bf7b0554fb30f
+run_name: hilarious-cow-865
+run_uuid: 777f52a467bb4134ab7bf7b0554fb30f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718117998325
+status: 3
+tags: []
+user_id: rossfleming
